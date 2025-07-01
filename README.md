@@ -31,8 +31,8 @@ Built with **HTML** and **CSS**, featuring layered image effects, a semi-circula
 ---
 
 ## 📁 Project Structure
-📦 dentytech-website
-┣ 📄 index.html
+📦 dentytech-website <br>
+┣ 📄 index.html <br>
 ┣ 📄 style.css
 
 
