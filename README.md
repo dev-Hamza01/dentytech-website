@@ -1,6 +1,6 @@
-# 🦷 Dentytech – Modern Dental Landing Page
+# 🦷 Dentytech – Modern Clothing Landing Page
 
-A clean, modern landing page for **Dentytech**, a fictional dental startup.  
+A clean, modern landing page for **Dentytech**, a fictional clothing startup.  
 Built with **HTML** and **CSS**, featuring layered image effects, a semi-circular scroll indicator, and social media icons.
 
 ---
